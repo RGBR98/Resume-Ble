@@ -1,0 +1,52 @@
+---
+title: "Resume Raúl Blé"
+author: "Raúl Blé"
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+self_contained: True
+css: ['form.css']
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Chunk options, echo=FALSE}
+
+knitr::opts_chunk$set(warning = F, message = F, echo = FALSE, results = 'asis')
+
+```
+
+Aside
+================================================================================
+
+```{r}
+#You can input your logo in this chunk
+
+```
+
+Contact info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> raulgustavo1@gmail.com
+- <i class="fa fa-github"></i> github.com/RGBR98
+- <i class="fa fa-phone"></i> 55 3052 - 8101
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**IT:** 
+
+- <i class="fa fa-laptop-code"></i> Office suite
+- <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+
+Main
+================================================================================
+
+Raúl G. Blé Rosique {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### (ITAM) Instituto Tecnológico Autónomo de México
+
