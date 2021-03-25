@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Montserrat&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css");
+
+
+ 
+/* 
+This custom stylesheet is built over Connor Gilroy's one, 
+which in turn is adapted from Nick Strayer.
+
+https://github.com/ccgilroy/resume/tree/master/css
+https://github.com/nstrayer/cv/tree/master/css
+*/
+
+/* Main text is Montserrat */
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Headers are Baskervville */
+h1, h2, h3 {
+  font-family: 'Baskervville', serif;
+  /*color: #000;*/
+} 
