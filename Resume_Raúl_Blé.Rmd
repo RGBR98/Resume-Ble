@@ -28,25 +28,107 @@ Contact info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> raulgustavo1@gmail.com
-- <i class="fa fa-github"></i> github.com/RGBR98
 - <i class="fa fa-phone"></i> 55 3052 - 8101
+- <i class="fa fa-github"></i> github.com/RGBR98
+
 
 Skills {#skills}
 --------------------------------------------------------------------------------
+
+- Great for managing unforeseen events, crisis, and stress situations.
+- Great in sales and promotion of products and services
 
 **IT:** 
 
 - <i class="fa fa-laptop-code"></i> Office suite
 - <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
 
+**Languages**
+
+- <i class="fa fa-globe-americas"></i> Spanish
+- <i class="fa fa-globe-americas"></i> English (C1)
+
+
 Main
 ================================================================================
 
-Raúl G. Blé Rosique {#title}
+Raúl Blé Rosique {#title}
 --------------------------------------------------------------------------------
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
-
 ### (ITAM) Instituto Tecnológico Autónomo de México
+
+Currently studying 6th semester in the Bachelor of Finance
+
+Mexico City, Mexico
+
+2017 - To date
+
+
+
+Experience {data-icon=briefcase} 
+--------------------------------------------------------------------------------
+
+### Hyundai pedregal 
+
+Product previewer 
+
+Mexico City, Mexico
+
+2016 - 2017
+
+
+### Hyundai Pedregal 
+
+Sales associate and Web manager 
+
+Mexico City, Mexico
+
+2019 - 2020
+
+**Expertise & certifications**
+
+- Purchase contract analysis and distribution for automobile acquisition. 
+- Web management and control for sales associates.
+- Certification, "Inducción a las ventas".
+- Certification, "Tripié de ventas".
+- Course, “Supervición de ventas por internet”. 
+- Course, “Lealtad de portafolio”.
+
+### Compucom GSC México
+
+L1 technician for GameStop
+
+Mexico City, Mexico
+
+2020 - To date
+
+**Expertise**
+
+ - Manager of the "Surface project", GameStop (Groups between 10 & 20 people).
+ - Creation of an automatized analysis for the surface project with R (programming language).
+ - Participation on the Windows 10 upgrade project, GameStop.
+ - Excellent Quality Assurance and User satisfaction.
+ 
+ Extra Curricular Activities {data-icon=file-alt}
+--------------------------------------------------------------------------------
+### UANMUN
+
+Second place in "Derechos humanos" committee
+
+Anahuac, Mexico
+
+2015
+
+### Ruedafest 2019
+
+Second place, group coreography
+
+Guadalajara, Mexico
+
+2019
+
+- Group co-leader for the Salsa group (Around 20 people under management)
+
 
